@@ -17,6 +17,7 @@ The OMG Network Community codebase is broken up into two organizations: Build OM
 | [comms](https://github.com/buildOMG/comms) | up | listing of AMA's | nebali |
 | [kb](https://github.com/buildOMG/kb) | up | Original markdown "database" of known topics related to OmiseGO and OMG Network | nebali, SAAnderson, Ro5s, more |
 | [bounties](https://github.com/buildOMG/bounties) | up | Currently empty | nebali |
+| [buildomg.github.io](https://buildomg.github.io) | up | Currently empty | nebali |
 
 
 ## Public Facing Sites
